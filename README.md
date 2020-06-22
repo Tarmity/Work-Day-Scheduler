@@ -3,6 +3,7 @@
 ## Description 
 This repository is where i developed the Work Day Scheduler product. Not only do I work on code and issues here, I also publish my latested updates and functions. This source code is available to everyone under the Free Software Foundation, Inc. https//fsf.org/.
 
+![Work Day Scheduler](https://user-images.githubusercontent.com/38900138/85248943-afc0db00-b495-11ea-8045-840dd8cd972b.png)
 
 ## Table of Contents (Optional)
 
