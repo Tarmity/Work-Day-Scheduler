@@ -1,4 +1,5 @@
 # Work-Day-Scheduler
+![License](https://img.shields.io/github/license/tarmity/Work-Day-Scheduler)
 
 ## Description 
 This repository is where i developed the Work Day Scheduler product. Not only do I work on code and issues here, I also publish my latested updates and functions. This source code is available to everyone under the Free Software Foundation, Inc. https//fsf.org/.
@@ -12,6 +13,7 @@ If your README is very long, add a table of contents to make it easy for users t
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
+* [License](#License)
 
 
 ## Installation
@@ -27,3 +29,6 @@ To operate the Work Day Scheduler simply open the link to bring up the planner. 
 ## Credits
 
 Followed brief instructions to achieve the desired outcome.
+
+## License
+  * MIT
